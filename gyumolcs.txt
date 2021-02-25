@@ -4,3 +4,4 @@ eper
 málna
 szilva - barack
 narancs
+kivi
