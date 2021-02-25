@@ -3,3 +3,4 @@ korte
 eper
 málna
 szilva
+narancs
